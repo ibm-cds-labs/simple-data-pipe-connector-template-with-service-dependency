@@ -1,0 +1,39 @@
+{
+  "name": "simple-data-pipe-connector-template-with-service-dependency",
+  "version": "0.1.0",
+  "description": "Basic connector template for Simple Data Pipe, utilizing a Bluemix service to enrich data.",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency"
+  },
+  "simple_data_pipe": {
+    "name": "service template",
+    "service_dependencies": [
+      {
+        "service_name": "tone analyzer",
+        "service_plan": "beta",
+        "instance_name": "tone analyzer"
+      }
+    ]
+  },
+  "keywords": [
+    "simple data pipe",
+    "connector",
+    "Cloudant",
+    "data movement"
+  ],
+  "dependencies": {
+    "bluemix-helper-config": "^0.1.13",
+    "fs": "0.0.2",
+    "lodash": "^4.3.0",
+    "path": "^0.12.7",
+    "simple-data-pipe-sdk": "^0.2.2"
+  },
+  "author": "ptitzler@us.ibm.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency/issues"
+  },
+  "readmeFilename": "README.md"
+}
