@@ -1,0 +1,44 @@
+[
+	{
+		"transcript_id": "Clinton - Iowa",	
+		"winner": "Clinton",
+		"party" : "Democratic",
+		"location" : "Iowa",
+		"transcript" : "clinton_iowa_transcript.txt"
+	},
+	{
+		"transcript_id": "Cruz - Iowa",	
+		"winner": "Cruz",
+		"party" : "Republican",
+		"location" : "Iowa",
+		"transcript" : "cruz_iowa_transcript.txt"
+	},
+	{
+		"transcript_id": "Clinton - Nevada",	
+		"winner": "Clinton",
+		"party" : "Democratic",
+		"location" : "Nevada",
+		"transcript" : "clinton_nevada_transcript.txt"
+	},
+	{
+		"transcript_id": "Sanders - New Hampshire",	
+		"winner": "Sanders",
+		"party" : "Democratic",
+		"location" : "New Hampshire",
+		"transcript" : "sanders_new_hampshire_transcript.txt"
+	},
+	{
+		"transcript_id": "Trump - New Hampshire",	
+		"winner": "Trump",
+		"party" : "Republican",
+		"location" : "New Hampshire",
+		"transcript" : "trump_new_hampshire_transcript.txt"
+	},
+	{
+		"transcript_id": "Trump - South Carolina",	
+		"winner": "Trump",
+		"party" : "Republican",
+		"location" : "South Carolina",
+		"transcript" : "trump_south_carolina_transcript.txt"
+	}
+]
