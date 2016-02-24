@@ -5,7 +5,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency.git"
+    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency"
   },
   "simple_data_pipe": {
     "name": "service template",
