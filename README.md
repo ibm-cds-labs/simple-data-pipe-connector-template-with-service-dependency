@@ -5,12 +5,15 @@
 
 # Simple Data Pipe &lt;TEMPLATE&gt; Connector 
 
-[Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) connector template. This template illustrates how to leverage a Bluemix service to enrich data sets with additional information. 
+This [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) connector template illustrates how to 
+* load a static set of data sets (2016 election speeches),
+* use a Bluemix service to perform tone analysis, and 
+* store the results in Cloudant.
 
 ### Pre-requisites
 
 ##### General 
- This connector loads a static set of data sets (election speeches), performs tone analysis and stores the results in Cloudant.
+ Review the pre-requisites listed below.
 
 ##### Deploy the Simple Data Pipe
 
