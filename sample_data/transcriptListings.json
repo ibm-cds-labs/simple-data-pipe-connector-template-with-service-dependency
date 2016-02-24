@@ -1,5 +1,19 @@
 [
 	{
+		"transcript_id": "Clinton - Iowa",	
+		"winner": "Clinton",
+		"party" : "Democratic",
+		"location" : "Iowa",
+		"transcript" : "clinton_iowa_transcript.txt"
+	},
+	{
+		"transcript_id": "Cruz - Iowa",	
+		"winner": "Cruz",
+		"party" : "Republican",
+		"location" : "Iowa",
+		"transcript" : "cruz_iowa_transcript.txt"
+	},
+	{
 		"transcript_id": "Clinton - Nevada",	
 		"winner": "Clinton",
 		"party" : "Democratic",
