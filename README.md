@@ -10,7 +10,7 @@
 ### Pre-requisites
 
 ##### General 
- _Describe general connector prerequisites, such as what type of account is required to access the data source, etc_
+ This connector loads a static set of data sets (election speeches), performs tone analysis and stores the results in Cloudant.
 
 ##### Deploy the Simple Data Pipe
 
