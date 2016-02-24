@@ -32,7 +32,9 @@
     "simple-data-pipe-sdk": "^0.2.2",
     "util": "^0.10.3"
   },
-  "author": "ptitzler@us.ibm.com",
+  "author": {
+    "name": "ptitzler@us.ibm.com"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency/issues"
