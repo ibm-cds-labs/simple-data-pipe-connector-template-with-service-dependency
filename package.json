@@ -5,7 +5,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency"
+    "url": "git+https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency.git"
   },
   "simple_data_pipe": {
     "name": "service template",
@@ -32,10 +32,19 @@
     "simple-data-pipe-sdk": "^0.2.2",
     "util": "^0.10.3"
   },
-  "author": "ptitzler@us.ibm.com",
+  "author": {
+    "name": "ptitzler@us.ibm.com"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency/issues"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "readme": "> Hey there! So you want to build your own Simple Data Pipe connector? [Start here](https://github.com/ibm-cds-labs/simple-data-pipe-connector-template/wiki/How-to-build-a-Simple-Data-Pipe-connector-using-this-template).\r\n\r\n***\r\n\r\n\r\n# Simple Data Pipe &lt;TEMPLATE&gt; Connector \r\n\r\n[Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/) connector for [&lt;TEMPLATE&gt;](http://<ADD_DATA_SOURCE_URL>/).\r\n\r\n### Pre-requisites\r\n\r\n##### General \r\n _Describe general connector prerequisites, such as what type of account is required to access the data source, etc_\r\n\r\n##### Deploy the Simple Data Pipe\r\n\r\n [Deploy the Simple Data Pipe in Bluemix](https://github.com/ibm-cds-labs/simple-data-pipe) using the Deploy to Bluemix button or manually.\r\n\r\n##### Services\r\n_If this connector requires Bluemix services list them here. Otherwise remove this section._\r\n\r\n##### Install the &lt;TEMPLATE&gt; connector\r\n\r\n  When you [follow these steps to install this connector](https://github.com/ibm-cds-labs/simple-data-pipe/wiki/Installing-a-Simple-Data-Pipe-Connector), add the following line to the dependencies list in the package.json file: `\"simple-data-pipe-connector-<NAME>\": \"https://github.com/ibm-cds-labs/simple-data-pipe-connector-<NAME>.git\"`\r\n\r\n##### Enable OAuth support and collect connectivity information\r\n _Describe where the user can find &lt;TEMPLATE&gt; specific oAuth information._\r\n\r\n### Using the &lt;TEMPLATE&gt; Connector \r\n\r\n _Describe how to use &lt;TEMPLATE&gt; in Simple Data Pipe_\r\n \r\n\r\n#### License \r\n\r\nCopyright [2016] IBM Cloud Data Services\r\n\r\nLicensed under the Apache License, Version 2.0 (the \"License\");\r\nyou may not use this file except in compliance with the License.\r\nYou may obtain a copy of the License at\r\n\r\n    http://www.apache.org/licenses/LICENSE-2.0\r\n\r\nUnless required by applicable law or agreed to in writing, software\r\ndistributed under the License is distributed on an \"AS IS\" BASIS,\r\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r\nSee the License for the specific language governing permissions and\r\nlimitations under the License.\r\n\r\n",
+  "gitHead": "5f710986fcd1b115ee781fec4ecaa58df2601705",
+  "homepage": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency#readme",
+  "_id": "simple-data-pipe-connector-template-with-service-dependency@0.1.0",
+  "_shasum": "d1340e06d7ccb835782cd8c69d5930e96ee8afab",
+  "_from": "git://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency.git",
+  "_resolved": "git://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency.git#5f710986fcd1b115ee781fec4ecaa58df2601705"
 }
