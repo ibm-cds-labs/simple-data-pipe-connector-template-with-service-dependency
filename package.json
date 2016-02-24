@@ -8,7 +8,7 @@
     "url": "https://github.com/ibm-cds-labs/simple-data-pipe-connector-template-with-service-dependency"
   },
   "simple_data_pipe": {
-    "name": "service template",
+    "name": "template_with_service",
     "service_dependencies": [
       {
         "service_name": "tone analyzer",
