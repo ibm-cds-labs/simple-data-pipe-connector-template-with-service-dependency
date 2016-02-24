@@ -28,7 +28,9 @@
     "fs": "0.0.2",
     "lodash": "^4.3.0",
     "path": "^0.12.7",
-    "simple-data-pipe-sdk": "^0.2.2"
+    "request": "^2.69.0",
+    "simple-data-pipe-sdk": "^0.2.2",
+    "util": "^0.10.3"
   },
   "author": "ptitzler@us.ibm.com",
   "license": "Apache-2.0",
